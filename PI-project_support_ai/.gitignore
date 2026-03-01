@@ -1,0 +1,28 @@
+# Archivos de configuración local (NO subir a Git!)
+.env
+.env.local
+.env.*.local
+
+# Variables de entorno
+*.env
+
+# Pycache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs y datos
+*.log
+logs/

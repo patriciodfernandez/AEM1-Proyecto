@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-03-01T19:24:23.975226",
+    "user_question": "Mi contraseña no funciona, ¿qué puedo hacer?",
+    "confidence_returned": "ALTA",
+    "latency_ms": 3374.98,
+    "tokens_prompt": 787,
+    "tokens_completion": 102,
+    "total_tokens": 889,
+    "estimated_cost_usd": 0.0002
+  },
+  {
+    "timestamp": "2026-03-01T19:41:28.981843",
+    "user_question": "Mi contraseña no funciona, ¿qué puedo hacer?",
+    "confidence_returned": "ALTA",
+    "latency_ms": 3858.15,
+    "tokens_prompt": 787,
+    "tokens_completion": 102,
+    "total_tokens": 889,
+    "estimated_cost_usd": 0.0002
+  },
+  {
+    "timestamp": "2026-03-01T19:45:28.653943",
+    "user_question": "Mi contraseña no funciona, ¿qué puedo hacer?",
+    "confidence_returned": "ALTA",
+    "latency_ms": 3768.09,
+    "tokens_prompt": 787,
+    "tokens_completion": 104,
+    "total_tokens": 891,
+    "estimated_cost_usd": 0.0002
+  }
+]
