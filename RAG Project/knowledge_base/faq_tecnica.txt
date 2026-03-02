@@ -1,0 +1,126 @@
+FAQ TÉCNICA - Preguntas Frecuentes sobre Soporte Técnico
+
+=== PROBLEMAS CON CONTRASEÑA ===
+
+P: ¿Olvidé mi contraseña, qué hago?
+R: Haz clic en "Olvidé mi contraseña" en la pantalla de login. Recibirás un email 
+   con un enlace para resetearla. Si el email no llega, revisa tu carpeta de spam. 
+   El enlace es válido por 24 horas.
+
+P: ¿Mi contraseña nueva no funciona?
+R: Intenta estas opciones:
+   1. Limpia el caché del navegador (Ctrl+Shift+Delete)
+   2. Prueba en una ventana privada
+   3. Cierra sesión completamente y vuelve a ingresar
+   4. Si continúa, contáctanos en soporte@empresa.com
+
+P: ¿Puedo cambiar mi contraseña?
+R: Puedes cambiar tu contraseña cualquier momento en tu perfil de usuario.
+   Ir a: Configuración > Seguridad > Cambiar Contraseña
+
+
+=== PROBLEMAS DE CUENTA ===
+
+P: Mi cuenta fue desactivada. ¿Por qué?
+R: Las cuentas se desactivan por:
+   - Múltiples intentos fallidos de login (activación automática en 24h)
+   - Violación de términos de servicio
+   - Inactividad extrema (>2 años)
+   Para más detalles, contacta a seguridad@empresa.com
+
+P: ¿Cómo cancelar mi cuenta?
+R: Puedes solicitar cancelación en Configuración > Cuenta > Cancelar Cuenta.
+   Se requiere confirmación por email. La cancelación es irreversible.
+
+P: ¿Mis datos se eliminarán?
+R: Mantenemos datos mínimos por requisitos legales (6 meses).
+   Después se borran permanentemente.
+
+
+=== PROBLEMAS DE CONEXIÓN ===
+
+P: Recibo "Error de conexión"
+R: Intenta:
+   1. Verifica tu conexión a internet (prueba ping 8.8.8.8)
+   2. Reinicia tu router
+   3. Prueba con otra red (wifi móvil)
+   4. Borra cookies/caché del navegador
+   5. Intenta con un navegador diferente
+
+P: El sitio es muy lento
+R: Causas comunes:
+   - Tu velocidad de internet (mínimo recomendado: 5 Mbps)
+   - Navegadores antiguos (actualiza a última versión)
+   - Extensiones bloqueando recursos
+   - En horarios pico (9-11 AM) puede haber congestión
+
+
+=== INTEGRACIONES ===
+
+P: ¿Soportan integración con Slack?
+R: Sí. Contamos con integración nativa con Slack.
+   Instalación: Configuración > Integraciones > Slack > "Conectar"
+   Consulta: docs.empresa.com/integraciones/slack
+
+P: ¿Soportan Zapier?
+R: Sí, aunque es integración comunitaria (no oficial).
+   Búsqueda: "Empresa" en app.zapier.com
+   Nota: Soportamos API REST para integraciones personalizadas
+
+P: ¿Soportan Microsoft Teams?
+R: No está disponible aún. Está en roadmap para Q2 2026.
+   Vota por esta feature: feature-requests.empresa.com
+
+
+=== FACTURACIÓN ===
+
+P: ¿Dónde veo mi factura?
+R: Configuración > Facturación > Facturas Anteriores
+   O revisa tu email (se envían automáticamente)
+
+P: ¿Puedo cambiar mi método de pago?
+R: Sí. Configuración > Facturación > Método de Pago > Actualizar
+   Se aplica en el próximo ciclo de facturación
+
+P: ¿Por qué se rechazó mi pago?
+R: Razones comunes:
+   - Fondos insuficientes
+   - Tarjeta expirada o números incorrectos
+   - Banco bloqueó transacción (contacta a tu banco)
+   - Dirección no coincide (actualiza en Facturación)
+
+
+=== RENDIMIENTO Y LÍMITES ===
+
+P: ¿Cuál es el límite de usuarios?
+R: Depende de tu plan:
+   - Plan Básico: 5 usuarios
+   - Plan Profesional: 50 usuarios
+   - Plan Enterprise: Ilimitado
+   Upgrade: Configuración > Plan > Cambiar Plan
+
+P: ¿Hay límite de solicitudes/minuto?
+R: Sí, límites por plan:
+   - Básico: 100 req/min
+   - Profesional: 1000 req/min
+   - Enterprise: Personalizado
+   Si necesitas más, contacta a sales@empresa.com
+
+P: ¿Dónde veo mi historial de uso?
+R: Dashboard > Estadísticas > Uso Actual
+   Puedes ver últimos 30 días o descargar reporte completo
+
+
+=== ACTUALIZACIONES Y MANTENIMIENTO ===
+
+P: ¿Cuándo hay mantenimiento?
+R: Mantenimiento programado: Domingos 2-4 AM (zona horaria central)
+   Se notifica con 48 horas de anticipación en status.empresa.com
+
+P: ¿Cuál es el tiempo de actividad (uptime)?
+R: Garantizamos 99.9% de uptime (máximo 43 minutos de downtime/mes)
+   Status en tiempo real: status.empresa.com
+
+P: ¿Cómo sé si hay un problema?
+R: Suscríbete a: status.empresa.com
+   Recibirás notificaciones por email de incidentes y mantenimiento

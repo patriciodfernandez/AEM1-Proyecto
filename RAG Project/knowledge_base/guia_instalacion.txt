@@ -1,0 +1,168 @@
+GUÍA DE INSTALACIÓN Y SETUP
+
+=== REQUISITOS DEL SISTEMA ===
+
+Mínimos (Computadora):
+- Procesador: Intel i5 (2015+) o equivalente
+- RAM: 4 GB
+- Espacio: 500 MB
+- SO: Windows 10/11, macOS 10.14+, Linux (Ubuntu 18.04+)
+
+Recomendado:
+- Procesador: Intel i7/Ryzen 5 (2019+)
+- RAM: 8 GB
+- Espacio: 1 GB
+- SO: Versión actual de tu sistema operativo
+- Conexión: Mínimo 5 Mbps
+
+Navegador:
+- Chrome 90+
+- Firefox 88+
+- Safari 14+
+- Edge 90+
+
+=== INSTALACIÓN EN WINDOWS ===
+
+Paso 1: Descargar Instalador
+  1. Ve a empresa.com/descargar
+  2. Haz clic en "Windows Installer"
+  3. Guarda el archivo (EmpresaSetup.exe)
+
+Paso 2: Ejecutar Instalador
+  1. Doble-clic en EmpresaSetup.exe
+  2. Aparecerá la ventana de Control de Acceso de Usuario
+  3. Haz clic en "Sí" para permitir cambios
+
+Paso 3: Seguir el Asistente
+  1. Lee el acuerdo de licencia y haz clic "Acepto"
+  2. Elige carpeta de instalación (recomendado: C:\Program Files\Empresa)
+  3. Selecciona si quieres crear atajos
+  4. Haz clic en "Instalar"
+  5. Espera a que finalice (2-5 minutos)
+
+Paso 4: Autorización
+  1. Se abrirá una ventana de navegador
+  2. Ingresa tu email y contraseña
+  3. Haz clic en "Autorizar"
+  4. La aplicación se abrirá automáticamente
+
+=== INSTALACIÓN EN MAC ===
+
+Paso 1: Descargar
+  1. Ve a empresa.com/descargar
+  2. Haz clic en "macOS Installer"
+  3. Se descargará Empresa.dmg
+
+Paso 2: Instalar
+  1. Doble-clic en Empresa.dmg
+  2. Arrastra el icono "Empresa" a la carpeta "Applications"
+  3. Espera a que copie (1-3 minutos)
+
+Paso 3: Primera Ejecución
+  1. Abre "Applications" en Finder
+  2. Doble-clic en "Empresa"
+  3. MacOS pedirá confirmación (es normal)
+  4. Haz clic en "Abrir"
+
+Paso 4: Autorización
+  1. Ingresa tu email y contraseña
+  2. Haz clic en "Autorizar"
+
+=== INSTALACIÓN EN LINUX (Ubuntu/Debian) ===
+
+Paso 1: Descargar
+  wget https://empresa.com/empresa-latest.deb
+
+Paso 2: Instalar
+  sudo dpkg -i empresa-latest.deb
+  (Ingresa tu contraseña si se pide)
+
+Paso 3: Ejecutar
+  empresa-app
+  o busca "Empresa" en tu menú de aplicaciones
+
+=== CONFIGURACIÓN INICIAL ===
+
+Primer Login:
+  1. Email: Tu email registrado
+  2. Contraseña: Tu contraseña
+  3. MFA (si está habilitado): Ingresa código de autenticador
+
+Dashboard:
+  1. Aparecerá tu panel de control
+  2. Configura tu perfil (nombre, foto, etc.)
+  3. Invita a tu equipo (si es plan profesional+)
+
+Cuenta Profesional / Enterprise:
+  1. Ve a Configuración > Equipo
+  2. Haz clic en "Invitar Miembros"
+  3. Ingresa emails de tu equipo
+  4. Asigna roles (Admin, Editor, Viewer)
+
+=== TROUBLESHOOTING INSTALACIÓN ===
+
+Problema: "Instalación bloqueada por antivirus"
+Solución: 
+  - Es falsa alarma (es común con instaladores)
+  - Agrega a excepción en tu antivirus
+  - O descarga desde empresa.com/secure (versión verificada)
+
+Problema: "Error 0x80004004"
+Solución:
+  - Cierra todas las instancias de la aplicación
+  - Reinicia tu computadora
+  - Intenta nuevamente
+
+Problema: "No puedo autorizar"
+Solución:
+  - Verifica tu conexión a internet
+  - Limpia cookies/caché del navegador
+  - Abre secuencia privada/incógnito
+  - Si persiste, contacta soporte@empresa.com
+
+Problema: "Aplicación muy lenta"
+Solución:
+  - Verifica requisitos mínimos de sistema
+  - Cierra otras aplicaciones
+  - Actualiza a última versión: Ayuda > Buscar Actualizaciones
+  - Desinstala y reinstala (limpia cache)
+
+=== ACTUALIZACIÓN DE SOFTWARE ===
+
+Automática:
+  - La aplicación busca actualizaciones automáticamente cada semana
+  - Aparecerá notificación si hay una nueva versión
+  - Haz clic en "Actualizar" (toma 2-5 minutos)
+
+Manual:
+  - Ayuda > Buscar Actualizaciones
+  - Si hay actualización disponible, haz clic "Descargar e Instalar"
+
+Versión Actual:
+  - Ayuda > Acerca de (muestra tu versión actual)
+  - Compara con empresa.com/releases (última versión disponible)
+
+=== DESINSTALACIÓN ===
+
+Windows:
+  1. Panel de Control > Programas > Programas y Características
+  2. Busca "Empresa"
+  3. Haz clic en "Desinstalar"
+  4. Sigue el asistente
+
+Mac:
+  1. Abre Applications en Finder
+  2. Arrastra "Empresa" a la Papelera
+  3. Vacía la Papelera
+
+Linux:
+  sudo apt-get remove empresa-app
+
+Nota: Tu cuenta y datos en la nube se mantienen. Puedes reinstalar en cualquier momento.
+
+=== SOPORTE ===
+
+Si tienes problemas durante la instalación:
+Email: soporte@empresa.com
+Teléfono: +1-800-EMPRESA-1
+Chat en vivo: empresa.com/chat (Lunes-Viernes, 9 AM - 6 PM)

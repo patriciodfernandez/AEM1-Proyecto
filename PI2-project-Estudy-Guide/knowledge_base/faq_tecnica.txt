@@ -1,0 +1,41 @@
+=== FAQ TÉCNICA ===
+
+CONTRASEÑA Y ACCESO:
+P: ¿Cómo reseteo mi contraseña?
+R: Haz clic en "Olvidé mi contraseña" en la pantalla de login. Recibirás email con instrucciones.
+P: ¿Cuánto tarda el reset?
+R: El email llega en 1-5 minutos. Si no, revisa spam.
+
+PROBLEMAS DE CUENTA:
+P: ¿Mi cuenta fue suspendida?
+R: Puede ser por violación de términos. Contacta support@company.com para apelación.
+P: ¿Cómo borro mi cuenta?
+R: Accede a Configuración > Privacidad > Eliminar Cuenta. Espera 30 días confirmación.
+
+INTEGRACIONES:
+P: ¿Soportan Slack?
+R: Sí, integración nativa. Settings > Integraciones > Slack > Conectar.
+P: ¿Soportan Microsoft Teams?
+R: Actualmente no, pero está en roadmap para Q2 2026.
+P: ¿Hay integración con Zapier?
+R: Sí, disponible en versión community (limitada a 100 acciones/mes).
+
+BILLING:
+P: ¿Cuándo se me cobra?
+R: El primer día del mes para planes mensuales, aniversario para anuales.
+P: ¿Qué métodos de pago aceptan?
+R: Tarjeta crédito, débito, PayPal, transferencia bancaria (empresas).
+P: ¿Puedo cambiar de plan?
+R: Sí, en cualquier momento. Ajustes prorrateados.
+
+RENDIMIENTO:
+P: ¿Cuál es el límite de uso?
+R: Plan Free: 100 acciones/mes. Plans pagos: ilimitado.
+P: ¿Cuál es el SLA de uptime?
+R: Garantizamos 99.9% uptime. Crédito de 10x si no se cumple.
+
+MANTENIMIENTO:
+P: ¿Usan mantenimiento programado?
+R: Sí, 2AM-4AM UTC segundo domingo del mes.
+P: ¿Cómo me notifican?
+R: Email 7 días antes al email registrado.

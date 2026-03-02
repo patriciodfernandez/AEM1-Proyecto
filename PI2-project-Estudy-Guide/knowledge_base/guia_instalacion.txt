@@ -1,0 +1,68 @@
+=== GUÍA DE INSTALACIÓN ===
+
+REQUISITOS MÍNIMOS:
+- Windows 7+, macOS 10.12+, Linux (Ubuntu 16.04+)
+- 2GB RAM
+- 500MB espacio en disco
+- Conexión a internet
+
+REQUISITOS RECOMENDADOS:
+- Windows 10+, macOS 11+, Linux Ubuntu 20.04+
+- 8GB RAM
+- SSD con 2GB espacio libre
+- Conexión estable 10Mbps+
+
+INSTALACIÓN WINDOWS:
+1. Descargar instalador desde www.company.com/download
+2. Ejecutar .exe
+3. Seguir asistente (acepta términos)
+4. Elegir carpeta destino
+5. Completar instalación
+6. Reiniciar si se pide
+
+INSTALACIÓN MAC:
+1. Descargar .dmg
+2. Abrir DMG
+3. Arrastrar app a Aplicaciones
+4. Ejecutar desde Launchpad
+5. Gran permiso si aparece alert
+
+INSTALACIÓN LINUX:
+1. Abrir terminal
+2. Ejecutar: curl -sSL https://install.company.com | bash
+3. Seguir indicaciones
+4. Verificar: company --version
+
+CONFIGURACIÓN INICIAL:
+1. Ejecutar aplicación
+2. Crear cuenta (email + contraseña)
+3. Aceptar términos
+4. Configurar preferencias (idioma, zona horaria)
+5. Conectar integraciones (Slack, etc)
+6. ¡Listo!
+
+TROUBLESHOOTING:
+P: "Permission Denied" en Linux
+R: Ejecuta: sudo chmod +x /opt/company/bin
+
+P: "Antivirus bloquea instalación"
+R: Agrega excepción en antivirus para company.exe
+
+P: "Error SHA256 en descarga"
+R: Descarga nuevamente, verifica conexión internet
+
+P: "Aplicación muy lenta"
+R: Cierra otras apps, aumenta RAM virtual, reinstala
+
+P: "No puedo activar licencia"
+R: Verifica conexión internet, contacta: license@company.com
+
+ACTUALIZACIÓN:
+- Automática cada primer lunes del mes
+- Manual en Menú > Buscar Actualizaciones
+- Downtime cero, se actualiza en background
+
+DESINSTALACIÓN:
+Windows: Panel Control > Programas > Desinstalar
+Mac: Arrastra app a Papelera
+Linux: sudo apt remove company (o descarga uninstaller)
